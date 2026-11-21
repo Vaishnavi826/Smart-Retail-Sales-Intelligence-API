@@ -182,3 +182,21 @@ GitHub: [Vaishnavi826](https://github.com/Vaishnavi826)
 ## Repository
 
 [Smart Retail Sales Intelligence API](https://github.com/Vaishnavi826/Smart-Retail-Sales-Intelligence-API)
+---
+
+## Dashboard Screenshots
+
+### 1. Business Overview & Monthly Revenue
+![Monthly Revenue](screenshots/monthly_revenue.png)
+
+### 2. Monthly Sales Growth Analysis
+![Sales Growth](screenshots/sales_growth.png)
+
+### 3. Yearly Revenue & Top Products
+![Yearly Revenue and Top Products](screenshots/yearly_revenue_top_products.png)
+
+### 4. Country-wise Sales Analysis
+![Country Sales](screenshots/country_sales.png)
+
+### 5. Top 10 Customers Analysis
+![Top Customers](screenshots/top_customers.png)
